@@ -1,5 +1,6 @@
 This project is a fork of [CRA Tailwind demo](https://github.com/adamwathan/cra-tailwind-demo).
-The current sccript is unable to minimize the build file with postcss config. So I included tailwind.config.js to build a minimized build file.
+
+The current script is unable to minimize the build file with postcss config. So I included tailwind.config.js to build a minimized css build.
 
 ## Available Scripts
 
